@@ -1,7 +1,7 @@
 # Welcome!
 Thank you for playing Economica!
 
-## Things you should know about ....
+Things you should know about ....
 
 ## Immersive Railroading
 Immersive Railroading can be difficult to play with for people that aren't familiar with it.
@@ -19,4 +19,3 @@ Please notify us as soon as you can if you see a recipe that's still set to a va
 ## I have an issue, where do I report it?
 You can report an issue with the pack or the official server on the GitHub at this url....
 https://github.com/GazbonicAcid/Economica/issues
-#Test
