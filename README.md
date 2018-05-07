@@ -1,7 +1,6 @@
 # Welcome!
 Thank you for playing Economica!
-
-Things you should know about ....
+Here are some things you should know about the pack...
 
 ## Immersive Railroading
 Immersive Railroading can be difficult to play with for people that aren't familiar with it.
